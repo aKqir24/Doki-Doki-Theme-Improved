@@ -8,6 +8,4 @@
 <img src="Brave.png"></img>
 <br>
 <h2>Please Support My Channel :)</h2>
-<div style="float: right; padding: 4px; text-decoration: none>
-<dd><a style="float: right; padding: 4px; text-decoration: none" href="https://www.youtube.com/channel/UCnMHIY-XZFMR1IRUiA0QQ9g">My Youtube Channel!</a></dd>
-</div>
+<li><a style="float: right; padding: 4px; text-decoration: none" href="https://www.youtube.com/channel/UCnMHIY-XZFMR1IRUiA0QQ9g">My Youtube Channel!</a></li>
