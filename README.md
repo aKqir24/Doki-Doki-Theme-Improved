@@ -1,4 +1,6 @@
-# Doki-doki WEB Improved --> Rory Mercury (Brave-Support-Only) Improved
+# Doki-doki WEB Improved 
+
++ Rory Mercury (Brave-Support-Only)
 
 <p><li> This Project Was Forked Based In <a href="https://github.com/doki-theme/doki-theme-web" style="text-decoration: none">Doki Theme Web</a></li>
   <li>The Fonts Of This Projects Is Not Also Mine So... Here The <a href="https://www.dafont.com/kindergarten-4.font">Sources</a> And Credits To Them.
