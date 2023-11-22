@@ -9,5 +9,5 @@
 <br>
 <h2>Please Support My Channel :)</h2>
 <div style="float: right; padding: 4px; text-decoration: none>
-<a style="float: right; padding: 4px; text-decoration: none" href="https://www.youtube.com/channel/UCnMHIY-XZFMR1IRUiA0QQ9g">My Youtube Channel!</a>
+<dd><a style="float: right; padding: 4px; text-decoration: none" href="https://www.youtube.com/channel/UCnMHIY-XZFMR1IRUiA0QQ9g">My Youtube Channel!</a></dd>
 </div>
