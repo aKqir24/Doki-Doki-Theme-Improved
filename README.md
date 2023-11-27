@@ -10,7 +10,7 @@
 </div>
 <br>
 <h4>Screenshot:</h4>
-<img src="Brave.png"></img>
+<img src="Brave.png"> Rory Mercury </img>
 <br>
 <div>
 <h2>Please Support My <a href="https://www.youtube.com/channel/UCnMHIY-XZFMR1IRUiA0QQ9g"> Channel!</a> :)</h2>
