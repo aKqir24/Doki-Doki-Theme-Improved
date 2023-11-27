@@ -2,7 +2,7 @@
 
 <div>
 <h3 style="font-family: monospace">Note</h3>
-  <dd>This Theme Only Support Brave Browser</dd>
+<dd>( This Theme Only Support Brave Browser )</dd>
 
 <p><li> This Project Was Forked Based In <a href="https://github.com/doki-theme/doki-theme-web" style="text-decoration: none">Doki Theme Web</a></li>
   <li>The Fonts Of This Projects Is Not Also Mine So... Here The <a href="https://www.dafont.com/kindergarten-4.font">Sources</a> And Credits To Them.
