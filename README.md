@@ -1,4 +1,4 @@
-# Doki-doki WEB Improved 
+# Doki-doki Theme WEB Improved 
 
 <h2>⚠ Please Note ⚠</h2> 
   <dd>This Theme Only Support <b>Brave Browser</b></dd> 
