@@ -1,7 +1,7 @@
 # Doki-doki WEB Improved 
 
 <div>
-<h3>* Rory Mercury (Brave Support Only) *</h3>
+<h3>Note This Theme Only Support Brave Browser</h3>
 
 <p><li> This Project Was Forked Based In <a href="https://github.com/doki-theme/doki-theme-web" style="text-decoration: none">Doki Theme Web</a></li>
   <li>The Fonts Of This Projects Is Not Also Mine So... Here The <a href="https://www.dafont.com/kindergarten-4.font">Sources</a> And Credits To Them.
@@ -12,6 +12,5 @@
 <img src="Brave.png"></img>
 <br>
 <div>
-<h2>Please Support My Channel :)</h2>
-<li><a style="float: right; padding: 4px; text-decoration: none" href="https://www.youtube.com/channel/UCnMHIY-XZFMR1IRUiA0QQ9g">My Youtube Channel!</a></li>
+<h2>Please Support My <a style="float: right; padding: 4px; text-decoration: none" href="https://www.youtube.com/channel/UCnMHIY-XZFMR1IRUiA0QQ9g"> Channel! :)</a></h2>
 </div>
