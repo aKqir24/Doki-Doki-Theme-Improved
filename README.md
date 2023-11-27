@@ -1,7 +1,7 @@
 # Doki-doki WEB Improved 
 
 <div>
-<pp><b>⚠ Please Note ⚠</b></pp> 
+<h2>⚠ Please Note ⚠</h2> 
   <dd>This Theme Only Support <b>Brave Browser</b></dd> 
 <p>
   <li> This Project Was Forked Based In <a href="https://github.com/doki-theme/doki-theme-web" ><b>Doki Theme Web</b></a></li>
