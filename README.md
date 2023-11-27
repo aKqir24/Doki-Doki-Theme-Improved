@@ -1,7 +1,7 @@
 # Doki-doki WEB Improved 
 
 <div>
-<pp><b style="font-size: 140px">Please Note </b> </pp> <pp> This Theme Only Support <b style="color:orange">Brave Browser</b></pp> 
+<pp><b style="font-size: 140px"> ⚠ Please Note ⚠ </b> </pp> <pp> This Theme Only Support <b style="color:orange">Brave Browser</b></pp> 
 <p>
   <li> This Project Was Forked Based In <a href="https://github.com/doki-theme/doki-theme-web" ><b style="text-decoration: none">Doki Theme Web</b></a></li>
   <li>The Fonts Of This Projects Is Not Also Mine So... Here The <a href="https://www.dafont.com/kindergarten-4.font"><b style="text-decoration: none">Sources</b></a> And Credits To Them.
