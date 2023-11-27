@@ -1,9 +1,6 @@
 
 /*///// Keyframes & Transitions //////*/
 
-@keyframes texthover {
-  from{text-shadow: -0.5px 0.5px 4.5px rgba(54, 48, 48)}to{text-shadow: 1px 3px 5px #611b1f}
-}
 @keyframes serchdisab {
 from{border: 1px solid #df000b; box-shadow: 0 0 0 1px #df0000, 0 0 0 4px rgba(231, 4, 4, 0.247);}
 to{border: 1px solid #df000b00; box-shadow: 0 0 0 1prgba(223, 0, 0, 0)00, 0 0 0 4px rgba(231, 4, 4, 0);}
@@ -18,7 +15,6 @@ from{ cursor: pointer; background-color: #3b3b3b; box-shadow: -2px 0px 7px #df00
 to{ background-color: #3b3b3b; box-shadow: -2px 0px 7px #df000000, 0px 0px 4px #575656d3;}}
 
 @font-face { font-family: kindergarten; src: url('font/kindergarten.ttf')}
-
 
 
 
@@ -43,12 +39,12 @@ to{ background-color: #3b3b3b; box-shadow: -2px 0px 7px #df000000, 0px 0px 4px #
   font-size: 3rem;
   color: var(--accent-color);
   text-shadow: -0.5px 0.5px 4.5px rgba(54, 48, 48);
+  text-shadow: -0.5px 0.5px 4.5px #611b1e;
   margin-inline-start: 15px;
   padding-left: 5px;
 }
 
 .wordmark { cursor: default }
-.wordmark:hover { animation-name: texthover; animation-duration: 1s }
 
 /*Search Bar*/
 .search-inner-wrapper {
@@ -72,7 +68,7 @@ input:focus {
 .search-inner-wrapper:disabled input,
 input:not(:focus) {
   animation: serchdisab;
-  animation-duration: 700ms;
+  animation-duration: 700ms
 
 }
 
@@ -84,14 +80,15 @@ input:not(:focus) {
   height: 100%;
   inset-inline-end: 0;
   position: absolute;
-  width: 48px;
+  width: 48px
 }
 
 .search-button:active { background-color: rgba(12, 12, 13, 0) }
 .search-button:focus,
 .search-button:hover {
   background-color: rgba(12, 12, 13, 0);
-  cursor: pointer;
+  cursor: pointer
+  
 }
 
 .sitetray { margin-top: 1.3ic; margin-right: 1ic; text-align: center }
@@ -103,23 +100,23 @@ input:not(:focus) {
   border: 1px (var(--accent-color));
   border-style: none;
   margin-left: 1.4ic;
-  background-color: #2e2e2e;
+  background-color: #2e2e2e
 }
 
 .site_btn:hover {
   animation-name: serchslide;
-  animation-duration: 610ms;
-  cursor: pointer;
+  animation-duration: 610s;
   background-color: #3b3b3b;
   box-shadow: -2px 0px 7px #df0000d3, 0px 0px 4px #575656d3;
+  cursor: pointer
 }
 
 .site_btn:not(:hover) {
   animation-name: btnnoth;
-  animation-duration: 610ms;
-  cursor: pointer;
-  background-color: #3b3b3b;
+  animation-duration: 1610s;
   box-shadow: -2px 0px 7px #df000000, 0px 0px 4px #575656d3;
+  background-color: #3b3b3b;
+  cursor: pointer
 }
 
 .btnimg { height: 1.7pc; width: 1.87pc; text-align: center }
@@ -131,7 +128,7 @@ input:not(:focus) {
   height: 100%;
   inset-inline-end: 0;
   position: absolute;
-  width: 48px;
+  width: 48px
 }
 
 .search-button:active { background-color: rgba(12, 12, 13, 0) }
@@ -152,17 +149,16 @@ input:not(:focus) {
 .site_btn:hover {
   animation-name: serchslide;
   animation-duration: 610ms;
-  cursor: pointer;
-  background-color: #3b3b3b;
   box-shadow: -2px 0px 7px #df0000d3, 0px 0px 4px #575656d3;
+  background-color: #3a3838;
+  cursor: pointer
 }
 
 .site_btn:not(:hover) {
   animation-name: btnnoth;
   animation-duration: 610ms;
-  cursor: pointer;
-  background-color: #3b3b3b;
   box-shadow: -2px 0px 7px #df000000, 0px 0px 4px #575656d3;
+  cursor: pointer
 }
 
 .btnimg { height: 1.7pc; width: 1.87pc; text-align: center }
