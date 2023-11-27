@@ -1,9 +1,7 @@
 # Doki-doki WEB Improved 
 
 <div>
-<h3 style="font-family: monospace">"Note"</h3>
-<dd>( This Theme Only Support <b>Brave Browser</b> )</dd>
-
+<h3 style="font-family: monospace"> Note: ( This Theme Only Support <b>Brave Browser</b> )</h3>
 <p>
   <li> This Project Was Forked Based In <a href="https://github.com/doki-theme/doki-theme-web" ><b style="text-decoration: none">Doki Theme Web</b></a></li>
   <li>The Fonts Of This Projects Is Not Also Mine So... Here The <a href="https://www.dafont.com/kindergarten-4.font"><b style="text-decoration: none">Sources</b></a> And Credits To Them.
