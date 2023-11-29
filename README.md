@@ -13,6 +13,6 @@
   <br>
   <h3 align=center >Disclaimer</h3>
   <dd align=center> All Of This Code Was Made By Them, And This Version Was My Own Personal Modification.</dd> 
-  <dd aligh=center>But Interested Then Try It!! BTW Try The Original Version It Has A Lot Othere Anime Characters Than This.</dd>
+  <dd align=center>But Interested Then Try It!! BTW Try The Original Version It Has A Lot Othere Anime Characters Than This.</dd>
 <h2>Please Support My <a href="https://www.youtube.com/channel/UCnMHIY-XZFMR1IRUiA0QQ9g"> Channel!</a> :)</h2>
 <br>
