@@ -2,7 +2,6 @@
 <pp>An anime theme that changes the main new tab browser into a cute anime characters 🤭</pp>
 <h2>Please Note</h2> 
   <dd>This Theme Only Support <b>Brave Browser</b></dd> 
-<br>
   <li> This Project Was Forked Based In <a href="https://github.com/doki-theme/doki-theme-web" ><b>Doki Theme Web</b></a></li>
   <li>The Fonts Of This Projects Is Not Also Mine So... Here The <a href="https://www.dafont.com/kindergarten-4.font"><b>Sources</b></a> And Credits To Them.</li>
 <br>
