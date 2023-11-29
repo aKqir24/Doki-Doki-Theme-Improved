@@ -1,6 +1,5 @@
 # Doki-doki Theme WEB Improved 
-
-<pp>An anime theme that changes the main new tab browser into a cute anime characters :J</pp>
+<pp>An anime theme that changes the main new tab browser into a cute anime characters 🤭</pp>
 <h2>Please Note</h2> 
   <dd>This Theme Only Support <b>Brave Browser</b></dd> 
 <br>
